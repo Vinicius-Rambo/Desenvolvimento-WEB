@@ -8,8 +8,7 @@ body {
     background: #f7f7f7;
   }  
 
-  .destacar{
+  .destacar { /*seletor usando classe*/
+  background: yellow;
 
-
-    
   }
