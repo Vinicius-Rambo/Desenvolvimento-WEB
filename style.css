@@ -10,5 +10,36 @@ body {
 
   .destacar { /*seletor usando classe*/
   background: yellow;
-
   }
+
+ .ifpr { 
+    color: red;};
+  
+
+    p.par {
+ background-color: aqua;
+font-weight: bold
+
+/*regra especifica aos "P"*/
+    }
+
+#conteudo {
+border: 10px solid black ; /* # representa o ID, deve ser unico */ 
+
+
+}
+
+div {
+    /*espaçamento interno aplica em sentido Horario*/
+   border: 1px solid black;
+   padding: 5px 10px 5px 5px;
+   
+   
+   /*Espaçamento externo*/
+   margin: 10px 50px 20px 0;
+   /*Aplica em ordem top, bottom - right e left*/
+
+}
+.dois{
+    width: 50%;
+}
