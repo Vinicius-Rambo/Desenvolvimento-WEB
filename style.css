@@ -1,6 +1,8 @@
 body {
     font-family: "Ubuntu Sans";
     background: #f7f7f7;
+    margin: auto;
+    
   }
 
 
@@ -25,7 +27,8 @@ font-weight: bold
 
 #conteudo {
 border: 10px solid black ; /* # representa o ID, deve ser unico */ 
-
+width: 50px;
+background: yellow;
 
 }
 
@@ -33,7 +36,6 @@ div {
     /*espaçamento interno aplica em sentido Horario*/
    border: 1px solid black;
    padding: 5px 10px 5px 5px;
-   
    
    /*Espaçamento externo*/
    margin: 10px 50px 20px 0;
